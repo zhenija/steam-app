@@ -1,0 +1,28 @@
+.pagination {
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  bottom: 20px;
+  left: 0;
+  right: 0;
+  margin: auto;
+
+  &__circle {
+    width: 30px;
+    height: 30px;
+    background: #5B5E63;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #FFFFFF;
+    border-radius: 50%;
+    border: none
+  }
+
+   &__circle--active {
+    background: #17323A;
+   }
+}

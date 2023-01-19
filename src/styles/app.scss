@@ -1,3 +1,5 @@
+// @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
 .App {
   text-align: center;
 }
@@ -35,4 +37,20 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.container {
+  width: 1171px;
+  padding: 57px 25px 0;
+
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.empty {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 15px;
+  color: #FFFFFF;
 }

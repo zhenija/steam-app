@@ -1,0 +1,26 @@
+.desription {  
+    &__img {
+      width: 100%;
+      max-width: 500px;
+    }
+  
+    &__title {
+      margin: 10px 0;
+      font-size: 2rem;
+      text-align: center;
+    }
+  
+    &__developer,
+    &__publisher,
+    &__released {
+      margin: 10px 0;
+      font-size: 1.5rem;
+    }
+  
+    &__description {
+      text-align: center;
+      font-size: 1.2rem;
+      line-height: 1.5;
+      margin: 10px 0;
+    }
+  }
