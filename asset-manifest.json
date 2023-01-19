@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/steam-app/static/css/main.4c822736.css",
+    "main.js": "/steam-app/static/js/main.1ab679f7.js",
+    "static/media/logo.svg": "/steam-app/static/media/logo.1714ce4906e4116c6b7a.svg",
+    "static/media/dropdown.svg": "/steam-app/static/media/dropdown.7d7f9cab64d5cd47776b.svg",
+    "static/media/heart.svg": "/steam-app/static/media/heart.f4d9df42cad2a451530f.svg",
+    "static/media/search_icon.svg": "/steam-app/static/media/search_icon.080f6006152a3405ba68.svg",
+    "static/media/liked.svg": "/steam-app/static/media/liked.5e3267dc2338b1cdadce.svg",
+    "index.html": "/steam-app/index.html",
+    "main.4c822736.css.map": "/steam-app/static/css/main.4c822736.css.map",
+    "main.1ab679f7.js.map": "/steam-app/static/js/main.1ab679f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c822736.css",
+    "static/js/main.1ab679f7.js"
+  ]
+}
